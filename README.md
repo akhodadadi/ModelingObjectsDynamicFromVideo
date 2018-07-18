@@ -10,3 +10,5 @@ function (RBF) networks the weights are not trainable parameters. Instead, they 
 frame as the output of a network consisted of convolutional and fully connected layers. In this network, since
 the center of the RBFs are fixed, the spatial information is preserved.
 
+Please read the full report [here](https://github.com/akhodadadi/ModelingObjectsDynamicFromVideo/blob/master/Khodadadi_Report.pdf).
+
